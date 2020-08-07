@@ -21,7 +21,7 @@ def reverse_array(array)
 end  
 
 def kesha_maker(array)
-  array.each[2] 
+  array.each 
 end  
 
 def find_a(array)
